@@ -1,0 +1,26 @@
+{
+  "name": "gradle-webpack-demo",
+  "version": "1.0.0",
+  "description": "Testing web build with gradle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobiSR/gradleWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobiSR/gradleWeb/issues"
+  },
+  "homepage": "https://github.com/BobiSR/gradleWeb#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "webpack": "^2.7.0"
+  }
+}
